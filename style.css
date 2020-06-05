@@ -1,0 +1,45 @@
+ul{
+   text-align: right;
+   margin: 0px;
+   padding: 0px;
+}
+
+header{
+    margin-bottom: 150px;
+}
+
+li{
+    display: inline;
+    margin-right: 50px;
+}
+
+h3{
+    margin-top: 50px;
+}
+
+section{
+   text-align: center;
+   margin: 0px;
+   padding: 0px;
+}
+
+div{
+    display: inline-block;
+    margin-right: 70px;
+}
+
+form{
+    text-align: center;
+    margin-top: 60px;
+    margin-right: 80px;
+}
+
+input{
+    border-style: solid;
+    border-radius: 8px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
