@@ -10,10 +10,6 @@
     margin-left: 80px;
     margin-right: 80px;
     margin-top: 50px;
-   
-}
-h3{
-    
 }
 h1{
    font-size: 50px;
@@ -21,7 +17,6 @@ h1{
 ul{
     text-align: right;
     margin-bottom: 25px;
-   
 }
 a{
     text-decoration: none;
@@ -33,30 +28,13 @@ li{
 #contenu{
     margin-top: 180px;
     text-align: center;   
+    height: 250px;
 }
 span{
+    
     display: inline-block;
-    margin-right: 60px;
-    margin-bottom: 50px;
-    margin: 40px;
-}
-.sp{
-    border-right: 1px solid;
-    margin-right: 35px;
     height: 100px;
-    
-}
-h2{
-    margin-top: 45px;
-    
-}
-p{
-    margin-top: 10px;
-}
-h2,p{
-    margin-right: 5px;
-    margin-left: 45px;
-    
+    margin-top: 50px;
 }
 #bouton{
     text-align: center;
@@ -67,4 +45,18 @@ button{
     border-color: green;
     text-transform: uppercase;
     padding: 10px 35px;
+}   
+h2{
+    margin-top: 45px;  
+} 
+p{
+    margin-top: 5px;  
+}
+#spn{
+    width: 350px;
+    border-left: 1px solid;
+    border-right: 1px solid;
+}
+.sp{
+    width: 300px; 
 }
