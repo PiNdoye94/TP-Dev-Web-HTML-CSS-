@@ -1,5 +1,9 @@
+body{
+    background-image:url(imgbackground.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 *{
-    background-color: #161313;
     color: #ffffff;
     font-family: sans-serif;
     margin: 0px;
@@ -45,6 +49,7 @@ button{
     border-color: green;
     text-transform: uppercase;
     padding: 10px 35px;
+    background: none;
 }   
 h2{
     margin-top: 15px; 
@@ -57,9 +62,9 @@ p{
     border-left: 1px solid;
     border-right: 1px solid;
 }
-.sp1{
+.sp1,.sp3{
     width: 300px; 
 }
-.sp3{
+/*.sp3{
     width: 300px; 
-}
+}*/
